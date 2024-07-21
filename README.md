@@ -7,8 +7,6 @@ A string is a sequence of characters used as an object of the class. The string 
 |---------|---------------------|
 | A string is a class that defines objects that be represented as a stream of characters | A character array is simply an array of characters that can be terminated by a null character |
 | String class defines a number of functionalities that allow manifold operations on strings | Character arrays do not offer many inbuilt functions to manipulate strings |
-## Outcome of the code
-Enter Name and Surname of the user and get the length of the Name and Surname without using inbuild functions and Print the initials of the the user.
 ## Algorithm
 1. Start
 2. Take the input of Name and Surname
